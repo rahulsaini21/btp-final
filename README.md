@@ -9,8 +9,7 @@ Method: Using image processing and data analysis technique we developed a python
 
 
 Step1: performed CAD simulation to generate dataset.
-
-![cad](https://github.com/user-attachments/assets/8f77b784-ee6a-4777-9fc4-08f5c5d92327)
+https://github.com/user-attachments/assets/8f77b784-ee6a-4777-9fc4-08f5c5d92327
 
 
 step2: developed a interface to adjust the image properties for better analysis.
