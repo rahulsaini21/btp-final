@@ -28,11 +28,11 @@ Step5: obtain high accurate results.
 Step6: build prototype of helicopter to test model and update program.
 ![image](https://github.com/rahulsaini21/btp-final/assets/97657676/7dad01a7-324b-48c4-ba28-22f083e134e1)
 
-Step7: gather data using high speed camera to capture blades rotating at high speed. 
+Step7: gather data using high speed camera to capture real helicopter blades rotating at high speed. 
 
 
 
-visited 3brd to test and present our model :) . 
+Finally: test and present our model at site. 
 
 
 
