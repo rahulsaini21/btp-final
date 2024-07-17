@@ -2,13 +2,16 @@
 Problem: Find the verticle distance between each blade to helicopter main rotor so to verify the blades are in certain range. Eliminate the present plag pole method which damages the blades.
 
 Flag pole method: In this a pole is used to hit the blades when helicopter is running. Each blade have different color on their tip. So pole get mark of all blades. These marks are then measured to verify the distance. 
+
 ![image](https://github.com/user-attachments/assets/4fe1d9a4-30a1-496c-ba19-6992b6de2463)
 
 Method: Using image processing and data analysis technique we developed a python script to measuring distance between each blade to eliminate physical damage to baldes. 
 
 
 Step1: performed CAD simulation to generate dataset.
-https://github.com/user-attachments/assets/07701931-ec5a-40ca-8d75-0ae62d169338
+
+![cad] https://github.com/user-attachments/assets/8f77b784-ee6a-4777-9fc4-08f5c5d92327
+
 
 step2: developed a interface to adjust the image properties for better analysis.
 ![image](https://github.com/user-attachments/assets/d5b14afb-846f-46f7-8422-24d42121ab8a)
